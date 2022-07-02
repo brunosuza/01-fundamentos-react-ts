@@ -1,4 +1,4 @@
 # 01-fundamentos-react-ts
 
+![image](https://user-images.githubusercontent.com/13911181/177015424-2284db72-e038-4e87-abf4-ff5c693aac28.png)
 
-![image](https://user-images.githubusercontent.com/13911181/177015401-b3f0d3a6-9376-4702-8c4f-e1410a23eddc.png)
